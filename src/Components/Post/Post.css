@@ -1,0 +1,10 @@
+.post {
+    border: 1px solid gray;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 4px goldenrod;
+
+}
