@@ -6,3 +6,9 @@ div a {
 div a:hover {
     background-color: aquamarine;
 }
+
+.active {
+    text-decoration: dashed;
+    color: rebeccapurple;
+    background-color: rgb(217, 255, 127);
+}
