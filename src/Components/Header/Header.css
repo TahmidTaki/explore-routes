@@ -1,0 +1,8 @@
+div a {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+div a:hover {
+    background-color: aquamarine;
+}
